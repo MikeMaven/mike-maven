@@ -40,6 +40,9 @@
         icon="now-ui-icons objects_globe"
         class="nav-item"
       >
+        <nav-link to="/landing">
+          <i class="now-ui-icons location_compass-05"></i> Projects
+        </nav-link>
         <a 
           href="https://github.com/mikemaven"
           target="_blank"
@@ -47,13 +50,9 @@
         >
           <i class="now-ui-icons business_chart-pie-36"></i> GitHub
         </a>
-        <a
-          href="https://demos.creative-tim.com/vue-now-ui-kit/documentation"
-          target="_blank"
-          class="dropdown-item"
-        >
-          <i class="now-ui-icons design_bullet-list-67"></i> Resume
-        </a>
+        <nav-link to="/profile">
+          <i class="now-ui-icons users_single-02"></i> About Mike
+        </nav-link>
       </drop-down>
       <drop-down
               tag="li"
@@ -61,14 +60,11 @@
               icon="now-ui-icons tech_controller-modern"
               class="nav-item"
       >
-        <nav-link to="/landing">
-          <i class="now-ui-icons location_compass-05"></i> A Dog's Dream
-        </nav-link>
-        <nav-link to="/login">
-          <i class="now-ui-icons users_circle-08"></i> Login
+        <nav-link to="/adogsdream">
+          <i class="now-ui-icons objects_planet"></i> A Dog's Dream
         </nav-link>
         <nav-link to="/profile">
-          <i class="now-ui-icons users_single-02"></i> Profile
+          <i class="now-ui-icons users_single-02"></i> About Mike
         </nav-link>
       </drop-down>
 

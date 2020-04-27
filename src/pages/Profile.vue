@@ -10,30 +10,16 @@
         <div class="photo-container">
           <img src="img/mike.jpg" alt="" />
         </div>
-        <h3 class="title">Ryan Scheinder</h3>
-        <p class="category">Photographer</p>
-        <div class="content">
-          <div class="social-description">
-            <h2>26</h2>
-            <p>Comments</p>
-          </div>
-          <div class="social-description">
-            <h2>26</h2>
-            <p>Comments</p>
-          </div>
-          <div class="social-description">
-            <h2>48</h2>
-            <p>Bookmarks</p>
-          </div>
-        </div>
+        <h3 class="title">Mike Maven</h3>
+        <p class="category">Developer</p>
       </div>
     </div>
     <div class="section">
       <div class="container">
         <div class="button-container">
-          <a href="#button" class="btn btn-primary btn-round btn-lg">Follow</a>
+          <a href="https://www.facebook.com/adogsdream" class="btn btn-primary btn-round btn-lg">Follow</a>
           <a
-            href="#button"
+            href="https://www.twitter.com/FurlingForests"
             class="btn btn-default btn-round btn-lg btn-icon"
             rel="tooltip"
             title="Follow me on Twitter"
@@ -41,7 +27,7 @@
             <i class="fab fa-twitter"></i>
           </a>
           <a
-            href="#button"
+            href="https://www.instagram.com/furling_forests/"
             class="btn btn-default btn-round btn-lg btn-icon"
             rel="tooltip"
             title="Follow me on Instagram"
@@ -51,74 +37,16 @@
         </div>
         <h3 class="title">About me</h3>
         <h5 class="description">
-          An artist of considerable range, Ryan — the name taken by
-          Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and
-          records all of his own music, giving it a warm, intimate feel with a
-          solid groove structure. An artist of considerable range.
+          A former touring musician, arcade bar owner, and entrepreneur, I am 
+          a software engineer with a sense of purpose. With a background in video games, 
+          a full-time gig in the healthcare industry, and a wide range of skills in my field 
+          that range from game development to full stack web application development, 
+          and cloud deployment to building native iOS and Android apps, I offer both the 
+          passion of someone who appreciates and understands the business of your vision and 
+          the technical proficiency to help you make it a reality. An experienced team manager, 
+          I have been working with fellow bootcamp graduates since I first entered the industry, helping 
+          develop protoypes and finished products on time and under budget.
         </h5>
-        <div class="row">
-          <div class="col-md-6 ml-auto mr-auto">
-            <h4 class="title text-center">My Portfolio</h4>
-          </div>
-          <tabs
-            pills
-            class="nav-align-center"
-            tab-content-classes="gallery"
-            tab-nav-classes="nav-pills-just-icons"
-            type="primary"
-          >
-            <tab-pane title="Profile">
-              <i slot="label" class="now-ui-icons design_image"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg6.jpg" class="img-raised" />
-                    <img src="img/bg11.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-
-            <tab-pane title="Home">
-              <i slot="label" class="now-ui-icons location_world"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg1.jpg" alt="" class="img-raised" />
-                    <img src="img/bg3.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-
-            <tab-pane title="Messages">
-              <i slot="label" class="now-ui-icons sport_user-run"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg3.jpg" alt="" class="img-raised" />
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                    <img src="img/bg6.jpg" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-          </tabs>
-        </div>
       </div>
     </div>
   </div>
