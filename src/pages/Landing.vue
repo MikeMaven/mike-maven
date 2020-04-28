@@ -165,10 +165,10 @@
                 <h4 class="title">Mike Maven</h4>
                 <p class="category text-primary">Developer</p>
                 <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                  Mike Maven is an experienced team leader and a passionate full stack developer 
+                  with experience in the video game industry, professional sports industry, and 
+                  healthcare industry. Mike is available to provide programming services for any 
+                  ful stack web product, native iOS or Andrios app, or video game.
                 </p>
                 <a href="https://twitter.com/FurlingForests" class="btn btn-primary btn-icon btn-round"
                   ><i class="fab fa-twitter"></i
@@ -191,10 +191,9 @@
                 <h4 class="title">Lance Sun</h4>
                 <p class="category text-primary">Developer</p>
                 <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                  Lance Sun is a talented Javascript Developer and alum of Boston's esteemed 
+                  Launch Academy. He currently works for Vimeo, and has teamed up with Mike 
+                  for full stack web applications.
                 </p>
                 <a href="#pablo" class="btn btn-primary btn-icon btn-round"
                   ><i class="fab fa-google-plus"></i
