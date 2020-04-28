@@ -47,12 +47,12 @@
               >
                 <!-- First image on the left side -->
                 <p class="blockquote blockquote-primary">
-                  "Mike not only brought our idea to life, but he went above and beyond what
-                  we asked of him to deliver a product that fit our needs, even when we
-                  pivoted and changed our minds a hundred times."
+                  Using the web tool Mike built for us to manage the draft was dramatically better
+                  than our previous use of Google Sheets. During our biggest moment, Forward Progress was 
+                  a well oiled machine.
                   <br />
                   <br />
-                  <small>-Forward Progress</small>
+                  <small>-33rd Team</small>
                 </p>
               </div>
               <!-- Second image on the left side of the article -->

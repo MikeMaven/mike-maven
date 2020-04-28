@@ -44,8 +44,8 @@
             </h5>
             <h5 class="description">
               When Sammy is "woken up" by his own subconscious, an energy field who calls himself <i>Neuro</i>, he discovers a world 
-              filled with memories of friends current and past, and ends up on mission to discover the keys to his waking mind 
-              that teaches him about friendship, facing his fears, and ultimately believing in himself.
+              filled with memories of friends, both current and past, and ends up on mission to discover the keys that unlock his waking mind, 
+              discovering friendship, facing his fears, and ultimately believing in himself.
             </h5>
             <h5 class="description">
               Guide Sammy and Neuro across 3 incredible "mini open worlds," interact with a hilarious cast of NPCs, participate in 
