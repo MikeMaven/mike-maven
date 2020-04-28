@@ -195,14 +195,11 @@
                   Launch Academy. He currently works for Vimeo, and has teamed up with Mike 
                   for full stack web applications.
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-google-plus"></i
+                <a href="https://github.com/slants0x3" class="btn btn-primary btn-icon btn-round"
+                  ><i class="fab fa-github"></i
                 ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-youtube"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
+                <a href="https://www.linkedin.com/in/lance-sun/" class="btn btn-primary btn-icon btn-round"
+                  ><i class="fab fa-linkedin"></i
                 ></a>
               </div>
             </div>
