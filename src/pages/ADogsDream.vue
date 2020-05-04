@@ -22,8 +22,10 @@
                 <img src="img/sammyandneuro.png" alt="" />
               </div>
               <div class="hero-images-container-2">
-                <img src="img/steam.png" alt="" />
-                <h6 class="text-center">Wishlist on Steam</h6>
+                <a href="https://www.patreon.com/adogsdreamgame">
+                  <img src="img/patreon.png" alt="" />
+                </a>
+                <h6 class="text-center">Become a patron on Patreon!</h6>
               </div>
             </div>
           </div>

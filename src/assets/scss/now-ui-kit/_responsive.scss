@@ -376,7 +376,9 @@ and (max-device-width : 1024px)
 and ( orientation : portrait){
     .section-images .hero-images-container,
     .section-images .hero-images-container-1,
-    .section-images .hero-images-container-2{
+    .section-images .hero-images-container-2,
+    .section-images .hero-images-container-3
+    {
         margin-top: -15vh;
         margin-left: 80px;
     }
